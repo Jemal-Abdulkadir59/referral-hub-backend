@@ -1,0 +1,240 @@
+[
+  {
+    "_id": "5c88fa8cf4afda39709c2955",
+    "name": "Carrefour Hyper",
+    "description": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.",
+    "hasNew": false,
+    "logo": "https://i.fbcd.co/products/resized/resized-1500-1000/35fa221b9125551fc13446133b8d980337655e15f27b10dfb205db407ab13975.webp",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2954",
+        "description": "Banff National Park",
+        "type": "Point",
+        "coordinates": [-116.214531, 51.417611],
+        "address": "301 Biscayne Blvd, Miami, FL 33132, USA"
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2953",
+        "description": "Jasper National Park",
+        "type": "Point",
+        "coordinates": [-118.076152, 52.875223],
+        "address": "224 Banff Ave, Banff, AB, Canada"
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2952",
+        "description": "Glacier National Park of Canada",
+        "type": "Point",
+        "coordinates": [-117.490309, 51.261937],
+        "address": "419 S Mill St, Aspen, CO 81611, USA"
+      }
+    ],
+    "category": "grocery"
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2951",
+    "name": "Lulu Hypermarket",
+    "description": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.",
+    "hasNew": false,
+    "logo": "https://cdn.d4donline.com/uploads/company/22dc50b59759790d34133d61485e751c.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c295c",
+        "description": "Aspen Highlands",
+        "type": "Point",
+        "coordinates": [-106.855385, 39.182677],
+        "address": "3663 S Las Vegas Blvd, Las Vegas, NV 89109, USA"
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c295b",
+        "description": "Beaver Creek",
+        "type": "Point",
+        "coordinates": [-106.516623, 39.60499],
+        "address": "Manhattan, NY 10036, USA"
+      }
+    ],
+    "category": "grocery"
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c295a",
+    "name": "Manueal Hypermarket",
+    "description": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.",
+    "hasNew": false,
+    "logo": "https://www.mintformations.co.uk/blog/wp-content/uploads/2020/05/shutterstock_583717939.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2965",
+        "description": "Zion Canyon National Park",
+        "type": "Point",
+        "coordinates": [-112.987418, 37.198125],
+        "address": "29130 Cliffside Dr, Malibu, CA 90265, USA"
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2964",
+        "description": "Antelope Canyon",
+        "type": "Point",
+        "coordinates": [-111.376161, 36.86438],
+        "address": "29130 Cliffside Dr, Malibu, CA 90265, USA"
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2963",
+        "description": "Grand Canyon National Park",
+        "type": "Point",
+        "coordinates": [-112.115763, 36.058973],
+        "address": "29130 Cliffside Dr, Malibu, CA 90265, USA"
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2962",
+        "description": "Joshua Tree National Park",
+        "type": "Point",
+        "coordinates": [-116.107963, 34.011646],
+        "address": "29130 Cliffside Dr, Malibu, CA 90265, USA"
+      }
+    ],
+    "category": "grocery"
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2961",
+    "name": "Al Raya",
+    "description": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.",
+    "hasNew": true,
+    "logo": "https://img.freepik.com/free-vector/royal-logo_1071-200.jpg?t=st=1731429757~exp=1731433357~hmac=a1a41d548d2925af9205193d8e923427021e2856f7ff1d8c5b67c3ed9ea1e0bf&w=740",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2960",
+        "description": "New York",
+        "type": "Point",
+        "coordinates": [-73.967696, 40.781821],
+        "address": "29130 Cliffside Dr, Malibu, CA 90265, USA"
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c295f",
+        "description": "Los Angeles",
+        "type": "Point",
+        "coordinates": [-118.324396, 34.097984],
+        "address": "29130 Cliffside Dr, Malibu, CA 90265, USA"
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c295e",
+        "description": "San Francisco",
+        "type": "Point",
+        "coordinates": [-122.408865, 37.787825],
+        "address": "29130 Cliffside Dr, Malibu, CA 90265, USA"
+      }
+    ],
+    "category": "electronics"
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c295d",
+    "name": "Wahj Mart",
+    "description": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.",
+    "hasNew": false,
+    "logo": "https://img.freepik.com/free-vector/connection-vector-logo-template_460848-8078.jpg?t=st=1731429798~exp=1731433398~hmac=133ab09c0e63627ba69d458fdaaf4a14612cb6c8e8130ad5c21c8e3250c97ad6&w=740",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c296b",
+        "description": "Point Dume Beach",
+        "type": "Point",
+        "coordinates": [-118.809361, 34.003098],
+        "address": "29130 Cliffside Dr, Malibu, CA 90265, USA"
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c296a",
+        "description": "Venice Skate Park",
+        "type": "Point",
+        "coordinates": [-118.47549, 33.987367],
+        "address": "29130 Cliffside Dr, Malibu, CA 90265, USA"
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2969",
+        "description": "San Diego Skydive",
+        "type": "Point",
+        "coordinates": [-116.830104, 33.022843],
+        "address": "29130 Cliffside Dr, Malibu, CA 90265, USA"
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2968",
+        "description": "Kern River Rafting",
+        "type": "Point",
+        "coordinates": [-118.4547, 35.710359],
+        "address": "29130 Cliffside Dr, Malibu, CA 90265, USA"
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2967",
+        "description": "Yosemite National Park",
+        "type": "Point",
+        "coordinates": [-119.600492, 37.742371],
+        "address": "29130 Cliffside Dr, Malibu, CA 90265, USA"
+      }
+    ],
+    "category": "fashion"
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2966",
+    "name": "Dukan",
+    "description": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.",
+    "hasNew": true,
+    "logo": "https://img.freepik.com/premium-vector/business-services-logo-business-finance-logo-financial-logo-financial-services-logo_1374131-261.jpg?w=740",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2959",
+        "description": "Lummus Park Beach",
+        "type": "Point",
+        "coordinates": [-80.128473, 25.781842],
+        "address": "29130 Cliffside Dr, Malibu, CA 90265, USA"
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2958",
+        "description": "Islamorada",
+        "type": "Point",
+        "coordinates": [-80.647885, 24.909047],
+        "address": "29130 Cliffside Dr, Malibu, CA 90265, USA"
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2957",
+        "description": "Sombrero Beach",
+        "type": "Point",
+        "coordinates": [-81.0784, 24.707496],
+        "address": "29130 Cliffside Dr, Malibu, CA 90265, USA"
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2956",
+        "description": "West Key",
+        "type": "Point",
+        "coordinates": [-81.768719, 24.552242],
+        "address": "29130 Cliffside Dr, Malibu, CA 90265, USA"
+      }
+    ],
+    "category": "beauty"
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2970",
+    "name": "Kabayan",
+    "description": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.",
+    "hasNew": false,
+    "logo": "https://img.freepik.com/premium-vector/vector-logo-illustration-business-gradient-colorful-style_116762-2527.jpg?w=740",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2973",
+        "description": "Natural Bridges National Monument",
+        "type": "Point",
+        "coordinates": [-109.99953, 37.629017],
+        "address": "Yellowknife, NT X1A 2L2, Canada"
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2972",
+        "description": "Horseshoe Bend",
+        "type": "Point",
+        "coordinates": [-111.50954, 36.883269],
+        "address": "Yellowknife, NT X1A 2L2, Canada"
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2971",
+        "description": "Death Valley National Park",
+        "type": "Point",
+        "coordinates": [-117.07399, 36.501435],
+        "address": "Yellowknife, NT X1A 2L2, Canada"
+      }
+    ],
+    "category": "home & garden"
+  }
+]

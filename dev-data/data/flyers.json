@@ -1,0 +1,79 @@
+[
+  {
+    "_id": "5c8a34ed14eb5c17645c9108",
+    "image": "https://cdn.d4donline.com/u/o/cp/b723362c14b5d1bc47e63aa677b6bcc4.webp",
+    "expiresDate": "2025-3-1",
+    "typeOffers": "weekend offers",
+    "retailer": "5c88fa8cf4afda39709c2955"
+  },
+  {
+    "_id": "5c8a355b14eb5c17645c9109",
+    "image": "https://cdn.d4donline.com/u/o/cp/787d877a1c1ab34e5b788c9895716495.webp",
+    "expiresDate": "2025-4-4",
+    "typeOffers": "weekend offers",
+    "retailer": "5c88fa8cf4afda39709c2951"
+  },
+  {
+    "_id": "5c8a359914eb5c17645c910a",
+    "image": "https://cdn.d4donline.com/u/o/cp/d2f485f544ffd14f75ef5be569042fca.webp",
+    "expiresDate": "2025-5-1",
+    "typeOffers": "online deals",
+    "retailer": "5c88fa8cf4afda39709c295a"
+  },
+  {
+    "_id": "5c8a35b614eb5c17645c910b",
+    "image": "https://cdn.d4donline.com/u/o/cp/7650a97451ac2cbf4ff27dc6e5bf3e96.webp",
+    "expiresDate": "2026-3-1",
+    "typeOffers": "festival offers",
+    "retailer": "5c88fa8cf4afda39709c2961"
+  },
+  {
+    "_id": "5c8a364c14eb5c17645c910c",
+    "image": "https://cdn.d4donline.com/u/o/cp/754ee0b686680e779752d4a92a9e7f5a.webp",
+    "expiresDate": "2025-2-26",
+    "typeOffers": "festival offers",
+    "retailer": "5c88fa8cf4afda39709c2955"
+  },
+  {
+    "_id": "5c8a368c14eb5c17645c910d",
+    "image": "https://cdn.d4donline.com/u/o/cp/a8cb1b174a4248412c1ac00fe15188c6.webp",
+    "expiresDate": "2025-3-1",
+    "typeOffers": "online deals",
+    "retailer": "5c88fa8cf4afda39709c295d"
+  },
+  {
+    "_id": "5c8a36a014eb5c17645c910e",
+    "image": "https://cdn.d4donline.com/u/o/cp/acde1fdfe5ae95bf09f61d7a8a9bb2c0.webp",
+    "expiresDate": "2025-3-1",
+    "typeOffers": "special offers",
+    "retailer": "5c88fa8cf4afda39709c2966"
+  },
+  {
+    "_id": "5c8a36b714eb5c17645c910f",
+    "image": "https://cdn.d4donline.com/u/o/cp/bce65f42b6192ff990355f6223ab0609.webp",
+    "expiresDate": "2025-3-18",
+    "typeOffers": "special offers",
+    "retailer": "5c88fa8cf4afda39709c2970"
+  },
+  {
+    "_id": "5c8a379a14eb5c17645c9110",
+    "image": "https://cdn.d4donline.com/u/o/cp/5dc9137e7c74881b8c7fae5b00ed926f.webp",
+    "expiresDate": "2025-3-1",
+    "typeOffers": "pre-order offers",
+    "retailer": "5c88fa8cf4afda39709c2955"
+  },
+  {
+    "_id": "5c8a37b114eb5c17645c9111",
+    "image": "https://cdn.d4donline.com/u/o/cp/9fc0903b23b1c3644e2a7365ab9a59a6.webp",
+    "expiresDate": "2026-3-1",
+    "typeOffers": "weekend offers",
+    "retailer": "5c88fa8cf4afda39709c2951"
+  },
+  {
+    "_id": "5c8a37cb14eb5c17645c9112",
+    "image": "https://cdn.d4donline.com/u/o/cp/9c44df94e424f95ff8e962cbe93ee582.webp",
+    "expiresDate": "2025-8-1",
+    "typeOffers": "pre-order offers",
+    "retailer": "5c88fa8cf4afda39709c295a"
+  }
+]

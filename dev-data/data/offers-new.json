@@ -1,0 +1,683 @@
+[
+  {
+    "_id": "67beb220eef13af680eb3eef",
+    "name": "oil",
+    "description": "al marai olive oil(250ml)",
+    "image": "https://cdn.d4donline.com/u/a/25/02/19/844e0a2c08161664cc591c8f8898cd3b.jpg",
+    "price": 20.67,
+    "priceDiscount": 14,
+    "expiresDate": "2025-06-02T00:00:00.000Z",
+    "category": "grocery",
+    "typeofItem": "oil & Ghee",
+    "typeOffers": "festival offers",
+    "createdAt": "2025-02-26T06:18:08.119Z",
+    "retailer": {
+      "_id": "5c88fa8cf4afda39709c2955",
+      "name": "Carrefour Hyper",
+      "logo": "https://i.fbcd.co/products/resized/resized-1500-1000/35fa221b9125551fc13446133b8d980337655e15f27b10dfb205db407ab13975.webp",
+      "id": "5c88fa8cf4afda39709c2955"
+    },
+    "id": "67beb220eef13af680eb3eef"
+  },
+  {
+    "_id": "67beb220eef13af680eb3ef0",
+    "name": "rice",
+    "description": "Daawat Basmati Rice 5 Kg",
+    "image": "https://cdn.d4donline.com/u/a/25/02/18/b1712205e66f4287b865c1214f940680.jpg",
+    "price": 71.5,
+    "priceDiscount": 49.95,
+    "expiresDate": "2025-06-03T00:00:00.000Z",
+    "category": "grocery",
+    "typeofItem": "rice",
+    "typeOffers": "weekend offers",
+    "createdAt": "2025-02-26T06:18:08.119Z",
+    "retailer": {
+      "_id": "5c88fa8cf4afda39709c2961",
+      "name": "Al Raya",
+      "logo": "https://img.freepik.com/free-vector/royal-logo_1071-200.jpg?t=st=1731429757~exp=1731433357~hmac=a1a41d548d2925af9205193d8e923427021e2856f7ff1d8c5b67c3ed9ea1e0bf&w=740",
+      "id": "5c88fa8cf4afda39709c2961"
+    },
+
+    "id": "67beb220eef13af680eb3ef0"
+  },
+  {
+    "_id": "67beb220eef13af680eb3ef1",
+    "name": "raisin",
+    "description": "raisin 1 kg",
+    "image": "https://cdn.d4donline.com/u/a/25/02/19/4c91f116205b26ad8c75860d4a7f5a62.jpg",
+    "price": 17.95,
+    "priceDiscount": 14.95,
+    "expiresDate": "2025-06-04T00:00:00.000Z",
+    "category": "fruits and vegetables",
+    "typeofItem": "dried fruits & dates",
+    "typeOffers": "special offers",
+    "createdAt": "2025-02-26T06:18:08.119Z",
+    "retailer": {
+      "_id": "5c88fa8cf4afda39709c2961",
+      "name": "Al Raya",
+      "logo": "https://img.freepik.com/free-vector/royal-logo_1071-200.jpg?t=st=1731429757~exp=1731433357~hmac=a1a41d548d2925af9205193d8e923427021e2856f7ff1d8c5b67c3ed9ea1e0bf&w=740",
+      "id": "5c88fa8cf4afda39709c2961"
+    },
+    "id": "67beb220eef13af680eb3ef1"
+  },
+  {
+    "_id": "67beb220eef13af680eb3ef2",
+    "name": "beef",
+    "description": "Beef meat chiled 1 Kg",
+    "image": "https://cdn.d4donline.com/u/a/25/02/18/c94152ceaaaec963155075f9717470ee.jpg",
+    "price": 41,
+    "priceDiscount": 21,
+    "expiresDate": "2025-06-05T00:00:00.000Z",
+    "category": "meat and fish",
+    "typeofItem": "fresh & chilled meat",
+    "typeOffers": "pre-order offers",
+    "createdAt": "2025-02-26T06:18:08.119Z",
+    "retailer": {
+      "_id": "5c88fa8cf4afda39709c2961",
+      "name": "Al Raya",
+      "logo": "https://img.freepik.com/free-vector/royal-logo_1071-200.jpg?t=st=1731429757~exp=1731433357~hmac=a1a41d548d2925af9205193d8e923427021e2856f7ff1d8c5b67c3ed9ea1e0bf&w=740",
+      "id": "5c88fa8cf4afda39709c2961"
+    },
+    "id": "67beb220eef13af680eb3ef2"
+  },
+  {
+    "_id": "67beb220eef13af680eb3eed",
+    "name": "oil",
+    "description": "haley cooking oil 1.5ltr",
+    "image": "https://cdn.d4donline.com/u/a/25/02/19/ae36138d902d368bbe3aac4dc362315a.jpg",
+    "price": 19.4,
+    "priceDiscount": 9.6,
+    "expiresDate": "2025-06-07T00:00:00.000Z",
+    "category": "grocery",
+    "typeofItem": "oil & Ghee",
+    "typeOffers": "online deals",
+    "createdAt": "2025-02-26T06:18:08.119Z",
+    "retailer": {
+      "_id": "5c88fa8cf4afda39709c2955",
+      "name": "Carrefour Hyper",
+      "logo": "https://i.fbcd.co/products/resized/resized-1500-1000/35fa221b9125551fc13446133b8d980337655e15f27b10dfb205db407ab13975.webp",
+      "id": "5c88fa8cf4afda39709c2955"
+    },
+    "id": "67beb220eef13af680eb3eed"
+  },
+  {
+    "_id": "67beb220eef13af680eb3ef5",
+    "name": "cheese",
+    "description": "blue jar 5000mg x 2's",
+    "image": "https://cdn.d4donline.com/u/a/25/02/18/bd152cd38a673184fe28ccddb096bdd9.jpg",
+    "price": 39,
+    "priceDiscount": 17.5,
+    "expiresDate": "2025-06-07T00:00:00.000Z",
+    "category": "dairy",
+    "typeofItem": "cheese & cream",
+    "typeOffers": "online deals",
+    "createdAt": "2025-02-26T06:18:08.119Z",
+    "retailer": {
+      "_id": "5c88fa8cf4afda39709c2966",
+      "name": "Dukan",
+      "logo": "https://img.freepik.com/premium-vector/business-services-logo-business-finance-logo-financial-logo-financial-services-logo_1374131-261.jpg?w=740",
+      "id": "5c88fa8cf4afda39709c2966"
+    },
+    "id": "67beb220eef13af680eb3ef5"
+  },
+  {
+    "_id": "67beb220eef13af680eb3ef6",
+    "name": "oil",
+    "description": "sun flower oil 3Ltr",
+    "image": "https://cdn.d4donline.com/u/a/25/02/18/5788e043fe529eaf1df0cbe7227d974a.jpg",
+    "price": 38,
+    "priceDiscount": 19,
+    "expiresDate": "2025-06-09T00:00:00.000Z",
+    "category": "grocery",
+    "typeofItem": "oil & Ghee",
+    "typeOffers": "festival offers",
+    "createdAt": "2025-02-26T06:18:08.119Z",
+    "retailer": {
+      "_id": "5c88fa8cf4afda39709c2970",
+      "name": "Kabayan",
+      "logo": "https://img.freepik.com/premium-vector/vector-logo-illustration-business-gradient-colorful-style_116762-2527.jpg?w=740",
+      "id": "5c88fa8cf4afda39709c2970"
+    },
+    "id": "67beb220eef13af680eb3ef6"
+  },
+  {
+    "_id": "67beb220eef13af680eb3eec",
+    "name": "mobile",
+    "description": "Honor x2 64Gb",
+    "image": "https://cdn.d4donline.com/u/a/25/02/8/33acddcd56114963da2b5f4900ceb271.jpg",
+    "price": 699,
+    "priceDiscount": 599,
+    "expiresDate": "2025-06-01T00:00:00.000Z",
+    "category": "electronics",
+    "typeofItem": "mobiles & accessories",
+    "typeOffers": "ramadan offers",
+    "createdAt": "2025-02-26T06:18:08.119Z",
+    "retailer": {
+      "_id": "5c88fa8cf4afda39709c2955",
+      "name": "Carrefour Hyper",
+      "logo": "https://i.fbcd.co/products/resized/resized-1500-1000/35fa221b9125551fc13446133b8d980337655e15f27b10dfb205db407ab13975.webp",
+      "id": "5c88fa8cf4afda39709c2955"
+    },
+    "id": "67beb220eef13af680eb3eec"
+  },
+  {
+    "_id": "67c6d8c200567674b4fc680b",
+    "name": "banana",
+    "description": "banana 1kg",
+    "image": "https://images.immediate.co.uk/production/volatile/sites/30/2017/01/Bunch-of-bananas-67e91d5.jpg",
+    "price": 60,
+    "priceDiscount": 40,
+    "expiresDate": "2025-06-21T00:00:00.000Z",
+    "category": "fruits and vegetables",
+    "typeofItem": "frozen fruits & veg",
+    "typeOffers": "online deals",
+    "createdAt": "2025-03-04T08:49:15.809Z",
+    "retailer": {
+      "_id": "5c88fa8cf4afda39709c2966",
+      "name": "Dukan",
+      "logo": "https://img.freepik.com/premium-vector/business-services-logo-business-finance-logo-financial-logo-financial-services-logo_1374131-261.jpg?w=740",
+      "id": "5c88fa8cf4afda39709c2966"
+    },
+    "id": "67c6d8c200567674b4fc680b"
+  },
+  {
+    "_id": "67c6d5f600567674b4fc6805",
+    "name": "shampoo",
+    "description": "shampoo Parachute Coc Avocado SH340ml",
+    "image": "https://cdn.d4donline.com/u/a/24/11/19/7085ffe8cc816fa5ba79d9bfbbb3f863.jpg",
+    "price": 230,
+    "priceDiscount": 100,
+    "expiresDate": "2025-06-19T00:00:00.000Z",
+    "category": "health and beauty",
+    "typeofItem": "bath & body",
+    "typeOffers": "weekend offers",
+    "createdAt": "2025-03-04T08:49:15.809Z",
+    "retailer": {
+      "_id": "5c88fa8cf4afda39709c2961",
+      "name": "Al Raya",
+      "logo": "https://img.freepik.com/free-vector/royal-logo_1071-200.jpg?t=st=1731429757~exp=1731433357~hmac=a1a41d548d2925af9205193d8e923427021e2856f7ff1d8c5b67c3ed9ea1e0bf&w=740",
+      "id": "5c88fa8cf4afda39709c2961"
+    },
+    "id": "67c6d5f600567674b4fc6805"
+  },
+  {
+    "_id": "67c6dadb00567674b4fc680e",
+    "name": "coca-cola",
+    "description": "Coca-Cola 500ML",
+    "image": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/coca-cola-original/en_coca-cola-original-taste-20-oz_750x750_v1.jpg",
+    "price": 60,
+    "priceDiscount": 40,
+    "expiresDate": "2025-06-22T00:00:00.000Z",
+    "category": "beverages",
+    "typeofItem": "soft drinks",
+    "typeOffers": "festival offers",
+    "createdAt": "2025-03-04T08:49:15.809Z",
+    "retailer": {
+      "_id": "5c88fa8cf4afda39709c2970",
+      "name": "Kabayan",
+      "logo": "https://img.freepik.com/premium-vector/vector-logo-illustration-business-gradient-colorful-style_116762-2527.jpg?w=740",
+      "id": "5c88fa8cf4afda39709c2970"
+    },
+    "id": "67c6dadb00567674b4fc680e"
+  },
+  {
+    "_id": "67c6dd1500567674b4fc6819",
+    "name": "bread",
+    "description": "Bread",
+    "image": "https://theloopywhisk.com/wp-content/uploads/2020/04/Gluten-Free-Bread_730px-featured.jpg",
+    "price": 12,
+    "priceDiscount": 10,
+    "expiresDate": "2025-06-23T00:00:00.000Z",
+    "category": "bakery",
+    "typeofItem": "breads & buns",
+    "typeOffers": "festival offers",
+    "createdAt": "2025-03-04T08:49:15.809Z",
+    "retailer": {
+      "_id": "5c88fa8cf4afda39709c2951",
+      "name": "Lulu Hypermarket",
+      "logo": "https://cdn.d4donline.com/uploads/company/22dc50b59759790d34133d61485e751c.jpg",
+      "id": "5c88fa8cf4afda39709c2951"
+    },
+    "id": "67c6dd1500567674b4fc6819"
+  },
+  {
+    "_id": "67c6dea600567674b4fc681f",
+    "name": "tide",
+    "description": "washing powder tide 2.5kg 2 pcs",
+    "image": "https://m.media-amazon.com/images/I/61YIfgu3ylL._AC_UF1000,1000_QL80_.jpg",
+    "price": 7.45,
+    "priceDiscount": 2.73,
+    "expiresDate": "2025-06-24T00:00:00.000Z",
+    "category": "laundry and cleaning",
+    "typeofItem": "laundry",
+    "typeOffers": "festival offers",
+    "createdAt": "2025-03-04T08:49:15.809Z",
+    "retailer": {
+      "_id": "5c88fa8cf4afda39709c295a",
+      "name": "Manueal Hypermarket",
+      "logo": "https://www.mintformations.co.uk/blog/wp-content/uploads/2020/05/shutterstock_583717939.jpg",
+      "id": "5c88fa8cf4afda39709c295a"
+    },
+    "id": "67c6dea600567674b4fc681f"
+  },
+  {
+    "_id": "67c6dfda00567674b4fc6822",
+    "name": "tissue paper",
+    "description": "tissue paper fine",
+    "image": "https://cdn.moglix.com/p/I9UGXXRRyG0WL-xxlarge.jpg",
+    "price": 4.45,
+    "priceDiscount": 2.73,
+    "expiresDate": "2025-06-25T00:00:00.000Z",
+    "category": "paper and disposables",
+    "typeofItem": "facial tissue & wippes",
+    "typeOffers": "weekend offers",
+    "createdAt": "2025-03-04T08:49:15.809Z",
+    "retailer": {
+      "_id": "5c88fa8cf4afda39709c2955",
+      "name": "Carrefour Hyper",
+      "logo": "https://i.fbcd.co/products/resized/resized-1500-1000/35fa221b9125551fc13446133b8d980337655e15f27b10dfb205db407ab13975.webp",
+      "id": "5c88fa8cf4afda39709c2955"
+    },
+    "id": "67c6dfda00567674b4fc6822"
+  },
+  {
+    "_id": "67c6e16100567674b4fc6827",
+    "name": "baby oil",
+    "description": "baby oil and shampoo",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPM9Ib0yyGlsDQYMJSuJWmeOOLcB2x2GRJ8Q&s",
+    "price": 44.45,
+    "priceDiscount": 34.73,
+    "expiresDate": "2025-06-26T00:00:00.000Z",
+    "category": "baby and mom",
+    "typeofItem": "baby care",
+    "typeOffers": "ramadan offers",
+    "createdAt": "2025-03-04T08:49:15.809Z",
+    "retailer": {
+      "_id": "5c88fa8cf4afda39709c2961",
+      "name": "Al Raya",
+      "logo": "https://img.freepik.com/free-vector/royal-logo_1071-200.jpg?t=st=1731429757~exp=1731433357~hmac=a1a41d548d2925af9205193d8e923427021e2856f7ff1d8c5b67c3ed9ea1e0bf&w=740",
+      "id": "5c88fa8cf4afda39709c2961"
+    },
+    "id": "67c6e16100567674b4fc6827"
+  },
+  {
+    "_id": "67c6e27900567674b4fc682a",
+    "name": "home furniture",
+    "description": "Home Furniture",
+    "image": "https://hulugram.fra1.cdn.digitaloceanspaces.com/media/uploads/2024/11/29/35ce4220-6f9e-4247-9515-e8040f8667f7.jpg",
+    "price": 4500,
+    "priceDiscount": 3000,
+    "expiresDate": "2025-06-26T00:00:00.000Z",
+    "category": "home, furniture, pets",
+    "typeofItem": "home furnishing & decor",
+    "typeOffers": "ramadan offers",
+    "createdAt": "2025-03-04T08:49:15.809Z",
+    "retailer": {
+      "_id": "5c88fa8cf4afda39709c295d",
+      "name": "Wahj Mart",
+      "logo": "https://img.freepik.com/free-vector/connection-vector-logo-template_460848-8078.jpg?t=st=1731429798~exp=1731433398~hmac=133ab09c0e63627ba69d458fdaaf4a14612cb6c8e8130ad5c21c8e3250c97ad6&w=740",
+      "id": "5c88fa8cf4afda39709c295d"
+    },
+    "id": "67c6e27900567674b4fc682a"
+  },
+  {
+    "_id": "67c6e41f00567674b4fc682d",
+    "name": "shoes",
+    "description": "VPR Sports Running, Walking and Gym Shoes",
+    "image": "https://m.media-amazon.com/images/I/710HZXFz5cL._AC_UY1000_.jpg",
+    "price": 4500,
+    "priceDiscount": 3000,
+    "expiresDate": "2025-06-26T00:00:00.000Z",
+    "category": "clothing and footwear",
+    "typeofItem": "footwear",
+    "typeOffers": "ramadan offers",
+    "createdAt": "2025-03-04T08:49:15.809Z",
+    "retailer": {
+      "_id": "5c88fa8cf4afda39709c2966",
+      "name": "Dukan",
+      "logo": "https://img.freepik.com/premium-vector/business-services-logo-business-finance-logo-financial-logo-financial-services-logo_1374131-261.jpg?w=740",
+      "id": "5c88fa8cf4afda39709c2966"
+    },
+    "id": "67c6e41f00567674b4fc682d"
+  },
+  {
+    "_id": "67c6fe0f00567674b4fc68b8",
+    "name": "tshirt",
+    "description": "t shirt 1 pcs",
+    "image": "https://m.media-amazon.com/images/I/61ecLdlM3XL._AC_UF1000,1000_QL80_.jpg",
+    "price": 1200,
+    "priceDiscount": 700,
+    "expiresDate": "2025-06-26T00:00:00.000Z",
+    "category": "clothing and footwear",
+    "typeofItem": "men's clothing",
+    "typeOffers": "ramadan offers",
+    "createdAt": "2025-03-04T08:49:15.809Z",
+    "retailer": {
+      "_id": "5c88fa8cf4afda39709c2966",
+      "name": "Dukan",
+      "logo": "https://img.freepik.com/premium-vector/business-services-logo-business-finance-logo-financial-logo-financial-services-logo_1374131-261.jpg?w=740",
+      "id": "5c88fa8cf4afda39709c2966"
+    },
+    "id": "67c6fe0f00567674b4fc68b8"
+  },
+  {
+    "_id": "67c7058a00567674b4fc691b",
+    "name": "pepsi",
+    "description": "Pepsi 1 Pcs",
+    "image": "https://www.pepsico.com/images/default-source/products-brands/pepsi_12oz.png?sfvrsn=46c9ae09_3",
+    "price": 14,
+    "priceDiscount": 10,
+    "expiresDate": "2025-06-26T00:00:00.000Z",
+    "category": "beverages",
+    "typeofItem": "soft drinks",
+    "typeOffers": "ramadan offers",
+    "createdAt": "2025-03-04T08:49:15.809Z",
+    "retailer": {
+      "_id": "5c88fa8cf4afda39709c2966",
+      "name": "Dukan",
+      "logo": "https://img.freepik.com/premium-vector/business-services-logo-business-finance-logo-financial-logo-financial-services-logo_1374131-261.jpg?w=740",
+      "id": "5c88fa8cf4afda39709c2966"
+    },
+    "id": "67c7058a00567674b4fc691b"
+  },
+  {
+    "_id": "67c6d74d00567674b4fc6808",
+    "name": "milk",
+    "description": "milk 250ml",
+    "image": "https://cdn.d4donline.com/u/a/24/11/18/0f636fac074b9db85d25aedf317d200f.jpg",
+    "price": 44.6,
+    "priceDiscount": 30,
+    "expiresDate": "2025-06-21T00:00:00.000Z",
+    "category": "dairy",
+    "typeofItem": "milk & laban",
+    "typeOffers": "online deals",
+    "createdAt": "2025-03-04T08:49:15.809Z",
+    "retailer": {
+      "_id": "5c88fa8cf4afda39709c295d",
+      "name": "Wahj Mart",
+      "logo": "https://img.freepik.com/free-vector/connection-vector-logo-template_460848-8078.jpg?t=st=1731429798~exp=1731433398~hmac=133ab09c0e63627ba69d458fdaaf4a14612cb6c8e8130ad5c21c8e3250c97ad6&w=740",
+      "id": "5c88fa8cf4afda39709c295d"
+    },
+    "id": "67c6d74d00567674b4fc6808"
+  },
+  {
+    "_id": "67c6d4f500567674b4fc6802",
+    "name": "chicken",
+    "description": "Radwan chicken whole italian sauce",
+    "image": "https://cdn.d4donline.com/u/a/24/11/20/ee48ab1a90520cfc9d2af43428f2c6fa.jpg",
+    "price": 450,
+    "priceDiscount": 350,
+    "expiresDate": "2025-06-18T00:00:00.000Z",
+    "category": "meat and fish",
+    "typeofItem": "frozen meat",
+    "typeOffers": "weekend offers",
+    "createdAt": "2025-03-04T08:49:15.809Z",
+    "retailer": {
+      "_id": "5c88fa8cf4afda39709c2961",
+      "name": "Al Raya",
+      "logo": "https://img.freepik.com/free-vector/royal-logo_1071-200.jpg?t=st=1731429757~exp=1731433357~hmac=a1a41d548d2925af9205193d8e923427021e2856f7ff1d8c5b67c3ed9ea1e0bf&w=740",
+      "id": "5c88fa8cf4afda39709c2961"
+    },
+    "id": "67c6d4f500567674b4fc6802"
+  },
+  {
+    "_id": "67c6d39900567674b4fc67ff",
+    "name": "milk",
+    "description": "Nestel Squeezy",
+    "image": "https://cdn.d4donline.com/u/a/24/11/13/8189f17980ccd09ec54fb6eeb0c17148.jpg",
+    "price": 250.9,
+    "priceDiscount": 170.5,
+    "expiresDate": "2025-06-17T00:00:00.000Z",
+    "category": "dairy",
+    "typeofItem": "milk & laban",
+    "typeOffers": "weekend offers",
+    "createdAt": "2025-03-04T08:49:15.809Z",
+    "retailer": {
+      "_id": "5c88fa8cf4afda39709c2955",
+      "name": "Carrefour Hyper",
+      "logo": "https://i.fbcd.co/products/resized/resized-1500-1000/35fa221b9125551fc13446133b8d980337655e15f27b10dfb205db407ab13975.webp",
+      "id": "5c88fa8cf4afda39709c2955"
+    },
+    "id": "67c6d39900567674b4fc67ff"
+  },
+  {
+    "_id": "67c6cd3e00567674b4fc67f0",
+    "name": "shampoo",
+    "description": "Shampoo or hair cream 140-340ML",
+    "image": "https://cdn.d4donline.com/u/a/24/11/19/b2c19764aecb52bd4f297b26a9e44125.jpg",
+    "price": 120,
+    "priceDiscount": 100,
+    "expiresDate": "2025-06-16T00:00:00.000Z",
+    "category": "health and beauty",
+    "typeofItem": "hair care",
+    "typeOffers": "weekend offers",
+    "createdAt": "2025-03-04T08:49:15.809Z",
+    "retailer": {
+      "_id": "5c88fa8cf4afda39709c295a",
+      "name": "Manueal Hypermarket",
+      "logo": "https://www.mintformations.co.uk/blog/wp-content/uploads/2020/05/shutterstock_583717939.jpg",
+      "id": "5c88fa8cf4afda39709c295a"
+    },
+    "id": "67c6cd3e00567674b4fc67f0"
+  },
+  {
+    "_id": "67c6cbd300567674b4fc67ed",
+    "name": "fish",
+    "description": "fresh fish salmon slice",
+    "image": "https://cdn.d4donline.com/u/a/24/11/21/e1b8e1812f394f273e98d8fc5221d078.jpg",
+    "price": 90,
+    "priceDiscount": 50,
+    "expiresDate": "2025-06-15T00:00:00.000Z",
+    "category": "meat and fish",
+    "typeofItem": "fresh fish & seafood",
+    "typeOffers": "weekend offers",
+    "createdAt": "2025-03-04T08:49:15.809Z",
+    "retailer": {
+      "_id": "5c88fa8cf4afda39709c2951",
+      "name": "Lulu Hypermarket",
+      "logo": "https://cdn.d4donline.com/uploads/company/22dc50b59759790d34133d61485e751c.jpg",
+      "id": "5c88fa8cf4afda39709c2951"
+    },
+    "id": "67c6cbd300567674b4fc67ed"
+  },
+  {
+    "_id": "67c6cb2000567674b4fc67ea",
+    "name": "sauce",
+    "description": "Barbecue sauce",
+    "image": "https://cdn.d4donline.com/u/a/24/11/19/80f7eb62781fcc2f17782c859961deb6.jpg",
+    "price": 80,
+    "priceDiscount": 30,
+    "expiresDate": "2025-06-14T00:00:00.000Z",
+    "category": "grocery",
+    "typeofItem": "sauces & spreads",
+    "typeOffers": "online deals",
+    "createdAt": "2025-03-04T08:49:15.809Z",
+    "retailer": {
+      "_id": "5c88fa8cf4afda39709c2970",
+      "name": "Kabayan",
+      "logo": "https://img.freepik.com/premium-vector/vector-logo-illustration-business-gradient-colorful-style_116762-2527.jpg?w=740",
+      "id": "5c88fa8cf4afda39709c2970"
+    },
+    "id": "67c6cb2000567674b4fc67ea"
+  },
+  {
+    "_id": "67c6ca5600567674b4fc67e7",
+    "name": "rice",
+    "description": "Besmati Rice 10KG",
+    "image": "https://cdn.d4donline.com/u/a/24/11/19/79e55a5a4e9c9b8bfcf9ce7da901d198.jpg",
+    "price": 200,
+    "priceDiscount": 150,
+    "expiresDate": "2025-06-13T00:00:00.000Z",
+    "category": "grocery",
+    "typeofItem": "rice",
+    "typeOffers": "online deals",
+    "createdAt": "2025-03-04T08:49:15.809Z",
+    "retailer": {
+      "_id": "5c88fa8cf4afda39709c2966",
+      "name": "Dukan",
+      "logo": "https://img.freepik.com/premium-vector/business-services-logo-business-finance-logo-financial-logo-financial-services-logo_1374131-261.jpg?w=740",
+      "id": "5c88fa8cf4afda39709c2966"
+    },
+    "id": "67c6ca5600567674b4fc67e7"
+  },
+  {
+    "_id": "67c6c9a000567674b4fc67e2",
+    "name": "chocolates",
+    "description": "Buttlers Chocolates 240 Grams",
+    "image": "https://cdn.d4donline.com/u/a/24/11/19/e5a22cf2c8e0a5a110bc3c045430d358.jpg",
+    "price": 155,
+    "priceDiscount": 100,
+    "expiresDate": "2025-06-12T00:00:00.000Z",
+    "category": "confectionery snacks",
+    "typeofItem": "chocolates & candies",
+    "typeOffers": "online deals",
+    "createdAt": "2025-03-04T08:49:15.809Z",
+    "retailer": {
+      "_id": "5c88fa8cf4afda39709c295d",
+      "name": "Wahj Mart",
+      "logo": "https://img.freepik.com/free-vector/connection-vector-logo-template_460848-8078.jpg?t=st=1731429798~exp=1731433398~hmac=133ab09c0e63627ba69d458fdaaf4a14612cb6c8e8130ad5c21c8e3250c97ad6&w=740",
+      "id": "5c88fa8cf4afda39709c295d"
+    },
+    "id": "67c6c9a000567674b4fc67e2"
+  },
+  {
+    "_id": "67c6c86d00567674b4fc67df",
+    "name": "mobile",
+    "description": "Samsung galaxy 64GB",
+    "image": "https://cdn.d4donline.com/u/a/24/11/19/4063b5909db5acdf4ee6407017131a59.jpg",
+    "price": 1549.5,
+    "priceDiscount": 1399,
+    "expiresDate": "2025-06-11T00:00:00.000Z",
+    "category": "electronics",
+    "typeofItem": "mobiles & accessories",
+    "typeOffers": "festival offers",
+    "createdAt": "2025-03-04T08:49:15.809Z",
+    "retailer": {
+      "_id": "5c88fa8cf4afda39709c295d",
+      "name": "Wahj Mart",
+      "logo": "https://img.freepik.com/free-vector/connection-vector-logo-template_460848-8078.jpg?t=st=1731429798~exp=1731433398~hmac=133ab09c0e63627ba69d458fdaaf4a14612cb6c8e8130ad5c21c8e3250c97ad6&w=740",
+      "id": "5c88fa8cf4afda39709c295d"
+    },
+    "id": "67c6c86d00567674b4fc67df"
+  },
+  {
+    "_id": "67c6c71d00567674b4fc67dc",
+    "name": "oil",
+    "description": "Sunny Cooking Oil 4 ltr",
+    "image": "https://cdn.d4donline.com/u/a/24/11/9/13a6aa2ea12f11de59bd4516a88bc0d1.jpg",
+    "price": 12,
+    "priceDiscount": 10,
+    "expiresDate": "2025-06-10T00:00:00.000Z",
+    "category": "grocery",
+    "typeofItem": "oil & Ghee",
+    "typeOffers": "ramadan offers",
+    "createdAt": "2025-03-04T08:49:15.809Z",
+    "retailer": {
+      "_id": "5c88fa8cf4afda39709c2961",
+      "name": "Al Raya",
+      "logo": "https://img.freepik.com/free-vector/royal-logo_1071-200.jpg?t=st=1731429757~exp=1731433357~hmac=a1a41d548d2925af9205193d8e923427021e2856f7ff1d8c5b67c3ed9ea1e0bf&w=740",
+      "id": "5c88fa8cf4afda39709c2961"
+    },
+    "id": "67c6c71d00567674b4fc67dc"
+  },
+  {
+    "_id": "67c81748d75d3cab02fc6c71",
+    "name": "oil",
+    "description": "haley cooking oil 1.5ltr",
+    "image": "https://cdn.d4donline.com/u/a/25/02/18/4f9a881521a8d94f527eec0202e8b8f9.jpg",
+    "price": 23,
+    "priceDiscount": 16,
+    "expiresDate": "2025-06-26T00:00:00.000Z",
+    "category": "grocery",
+    "typeofItem": "oil & Ghee",
+    "typeOffers": "online deals",
+    "createdAt": "2025-03-05T09:12:03.115Z",
+    "retailer": {
+      "_id": "5c88fa8cf4afda39709c2955",
+      "name": "Carrefour Hyper",
+      "logo": "https://i.fbcd.co/products/resized/resized-1500-1000/35fa221b9125551fc13446133b8d980337655e15f27b10dfb205db407ab13975.webp",
+      "id": "5c88fa8cf4afda39709c2955"
+    },
+    "id": "67c81748d75d3cab02fc6c71"
+  },
+  {
+    "_id": "67c8191dd75d3cab02fc6c7b",
+    "name": "dates",
+    "description": "suger dates 1kg",
+    "image": "https://cdn.d4donline.com/u/a/25/02/19/4005e7e2b3952f1e67a684b22324ef7a.jpg",
+    "price": 15,
+    "priceDiscount": 10,
+    "expiresDate": "2025-06-26T00:00:00.000Z",
+    "category": "fruits and vegetables",
+    "typeofItem": "dried fruits & dates",
+    "typeOffers": "special offers",
+    "createdAt": "2025-03-05T09:12:03.115Z",
+    "retailer": {
+      "_id": "5c88fa8cf4afda39709c2951",
+      "name": "Lulu Hypermarket",
+      "logo": "https://cdn.d4donline.com/uploads/company/22dc50b59759790d34133d61485e751c.jpg",
+      "id": "5c88fa8cf4afda39709c2951"
+    },
+    "id": "67c8191dd75d3cab02fc6c7b"
+  },
+  {
+    "_id": "67c8199dd75d3cab02fc6c7e",
+    "name": "oat",
+    "description": "white oats quaker 500g",
+    "image": "https://cdn.d4donline.com/u/a/25/02/19/7d76359b7f3868b3e94b18d3762d34f1.jpg",
+    "price": 12.3,
+    "priceDiscount": 6.3,
+    "expiresDate": "2025-06-26T00:00:00.000Z",
+    "category": "grocery",
+    "typeofItem": "cereals & bars",
+    "typeOffers": "weekend offers",
+    "createdAt": "2025-03-05T09:12:03.115Z",
+    "retailer": {
+      "_id": "5c88fa8cf4afda39709c2970",
+      "name": "Kabayan",
+      "logo": "https://img.freepik.com/premium-vector/vector-logo-illustration-business-gradient-colorful-style_116762-2527.jpg?w=740",
+      "id": "5c88fa8cf4afda39709c2970"
+    },
+    "id": "67c8199dd75d3cab02fc6c7e"
+  },
+  {
+    "_id": "67c819fbd75d3cab02fc6c81",
+    "name": "potato",
+    "description": "potato 1kg",
+    "image": "https://cdn.d4donline.com/u/a/25/02/18/7c693da06e101697ed313a5dd008b64f.jpg",
+    "price": 41,
+    "priceDiscount": 21,
+    "expiresDate": "2025-06-26T00:00:00.000Z",
+    "category": "fruits and vegetables",
+    "typeofItem": "fresh vegetables",
+    "typeOffers": "online deals",
+    "createdAt": "2025-03-05T09:12:03.115Z",
+    "retailer": {
+      "_id": "5c88fa8cf4afda39709c2961",
+      "name": "Al Raya",
+      "logo": "https://img.freepik.com/free-vector/royal-logo_1071-200.jpg?t=st=1731429757~exp=1731433357~hmac=a1a41d548d2925af9205193d8e923427021e2856f7ff1d8c5b67c3ed9ea1e0bf&w=740",
+      "id": "5c88fa8cf4afda39709c2961"
+    },
+    "id": "67c819fbd75d3cab02fc6c81"
+  },
+  {
+    "_id": "67c81a65d75d3cab02fc6c87",
+    "name": "egg",
+    "description": "egg large 30s",
+    "image": "https://cdn.d4donline.com/u/a/25/02/18/b5a2a3e5bddf51628286a25c626364a4.jpg",
+    "price": 2,
+    "priceDiscount": 1.5,
+    "expiresDate": "2025-06-26T00:00:00.000Z",
+    "category": "dairy",
+    "typeofItem": "eggs",
+    "typeOffers": "ramadan offers",
+    "createdAt": "2025-03-05T09:12:03.115Z",
+    "retailer": {
+      "_id": "5c88fa8cf4afda39709c295d",
+      "name": "Wahj Mart",
+      "logo": "https://img.freepik.com/free-vector/connection-vector-logo-template_460848-8078.jpg?t=st=1731429798~exp=1731433398~hmac=133ab09c0e63627ba69d458fdaaf4a14612cb6c8e8130ad5c21c8e3250c97ad6&w=740",
+      "id": "5c88fa8cf4afda39709c295d"
+    },
+    "id": "67c81a65d75d3cab02fc6c87"
+  }
+]

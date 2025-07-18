@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Carrefour Hyper",
+    "flyersQuantity": 14,
+    "description": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.",
+    "hasNew": false,
+    "logo": "https://cdn.d4donline.com/u/c/5e2f86565c054b879a1a8aeaae178a5c.jpg",
+    "category": "grocery"
+  },
+  {
+    "name": "Lulu Hypermarket",
+    "flyersQuantity": 12,
+    "description": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.",
+    "hasNew": false,
+    "logo": "https://cdn.d4donline.com/uploads/company/22dc50b59759790d34133d61485e751c.jpg",
+    "category": "grocery"
+  },
+  {
+    "name": "Manueal Hypermarket",
+    "flyersQuantity": 8,
+    "description": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.",
+    "hasNew": false,
+    "logo": "https://cdn.d4donline.com/u/c/59c847e865475604d5894b9c06ce94f5.jpg",
+    "category": "grocery"
+  },
+  {
+    "name": "Al Raya",
+    "flyersQuantity": 6,
+    "description": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.",
+    "hasNew": true,
+    "logo": "https://cdn.d4donline.com/u/c/8203917d.jpg",
+    "category": "electronics"
+  },
+  {
+    "name": "Wahj Mart",
+    "flyersQuantity": 4,
+    "description": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.",
+    "hasNew": false,
+    "logo": "https://cdn.d4donline.com/u/c/36a52b79d1c83905011798463eb9f632.png",
+    "category": "fashion"
+  },
+  {
+    "name": "Dukan",
+    "flyersQuantity": 17,
+    "description": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.",
+    "hasNew": true,
+    "logo": "https://cdn.d4donline.com/u/c/ed2c4b669db267f80873a2684794bede.png",
+    "category": "beauty"
+  },
+  {
+    "name": "Kabayan",
+    "flyersQuantity": 4,
+    "description": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.",
+    "hasNew": false,
+    "logo": "https://cdn.d4donline.com/u/c/0e780194ffa3f295bfcb50c8a2e62d90.png",
+    "category": "home & garden"
+  }
+]

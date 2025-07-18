@@ -1,0 +1,48 @@
+Username=hospital
+password=hospital1997
+Es6itMs5blTtAq5e
+database=mongodb+srv://hospital:Es6itMs5blTtAq5e@cluster0.id7mj9t.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+#HOW TO INSTALL MONGODB LOCAL
+1.Download MongoDB Community Edition:
+https://www.mongodb.com/try/download/community
+
+2.// New (Local MongoDB)
+mongoose.connect('mongodb://127.0.0.1:27017/myLocalDB')
+Replace "myLocalDB" with your desired local database name.
+
+Start MongoDB Local Server
+Start your local MongoDB server (if not auto-started):
+mongod
+It usually runs on the default URI:
+mongodb://127.0.0.1:27017
+
+3. Kali
+Step-by-Step: Install mongodb-org-server_8.0.9_amd64.deb
+  1. cd ~/Downloads
+  2. sudo dpkg -i mongodb-org-server_8.0.9_amd64.deb
+  3.sudo apt --fix-broken install
+  4. Start the MongoDB server:
+    sudo systemctl start mongod
+  5.Check MongoDB status:
+    sudo systemctl status mongod
+    You should see:
+    Active: active (running)
+  6. Test MongoDB is Running
+    mongosh
+  7.Connect with MongoDB Compass
+    mongodb://127.0.0.1:27017
+  8. mongoose.connect('mongodb://127.0.0.1:27017/myLocalDB', {
+  useNewUrlParser: true,
+  useUnifiedTopology: true,
+});
+
+DATABASE=mongodb://127.0.0.1:27017/hospital
+let DB = process.env.DATABASE;
+if (DB.includes('<PASSWORD>') && process.env.DATABASE_PASSWORD) {
+  DB = DB.replace('<PASSWORD>', process.env.DATABASE_PASSWORD);
+}
+
+You should now see:
+DB connection successful!
+App running on port 8000...

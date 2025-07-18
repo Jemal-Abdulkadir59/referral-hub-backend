@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Carrefour Hyper 360 Mall",
+    "location": {
+      "description": "Aspen, USA",
+      "type": "Point",
+      "coordinates": [-106.822318, 39.190872],
+      "address": "419 S Mill St, Aspen, CO 81611, USA"
+    },
+    "retailer": "5c88fa8cf4afda39709c2955"
+  },
+  {
+    "name": "Carrefour Hyper ",
+    "location": {
+      "description": "Aspen, USA",
+      "type": "Point",
+      "coordinates": [-109.99953, 37.629017],
+      "address": "Natural Bridges National Monument"
+    },
+    "retailer": "5c88fa8cf4afda39709c2955"
+  },
+  {
+    "name": "Al Raya Egaila",
+    "location": {
+      "description": "Miami, USA",
+      "type": "Point",
+      "coordinates": [-80.185942, 25.774772],
+      "address": "301 Biscayne Blvd, Miami, FL 33132, USA"
+    },
+    "retailer": "5c88fa8cf4afda39709c2961"
+  },
+  {
+    "name": "Al Raya Bole",
+    "location": {
+      "description": "Miami, USA",
+      "type": "Point",
+      "coordinates": [-112.987418, 37.198125],
+      "address": "Zion Canyon National Park"
+    },
+    "retailer": "5c88fa8cf4afda39709c2961"
+  },
+  {
+    "name": "Wahj Mart Jeleeb",
+    "location": {
+      "description": "Banff, CAN",
+      "type": "Point",
+      "coordinates": [-115.570154, 51.178456],
+      "address": "224 Banff Ave, Banff, AB, Canada"
+    },
+    "retailer": "5c88fa8cf4afda39709c295d"
+  },
+  {
+    "name": "Dukan 419 S Mill",
+    "location": {
+      "description": "Aspen, USA",
+      "type": "Point",
+      "coordinates": [-106.822318, 39.190872],
+      "address": "419 S Mill St, Aspen, CO 81611, USA"
+    },
+    "retailer": "5c88fa8cf4afda39709c2966"
+  },
+  {
+    "name": "Kabayan 3663 Blvd",
+    "location": {
+      "description": "Aspen, USA",
+      "type": "Point",
+      "coordinates": [-115.172652, 36.110904],
+      "address": "3663 S Las Vegas Blvd, Las Vegas, NV 89109, USA"
+    },
+    "retailer": "5c88fa8cf4afda39709c2970"
+  },
+  {
+    "name": "Manueal Hypermarket",
+    "location": {
+      "description": "Horseshoe Bend",
+      "type": "Point",
+      "coordinates": [-111.50954, 36.883269],
+      "address": "Yellowknife, NT X1A 2L2, Canada"
+    },
+    "retailer": "5c88fa8cf4afda39709c295a"
+  },
+  {
+    "name": "Lulu Hypermarket",
+    "location": {
+      "description": "Horseshoe Bend",
+      "type": "Point",
+      "coordinates": [-111.50954, 36.883269],
+      "address": "Yellowknife, NT X1A 2L2, Canada"
+    },
+    "retailer": "5c88fa8cf4afda39709c2951"
+  }
+]

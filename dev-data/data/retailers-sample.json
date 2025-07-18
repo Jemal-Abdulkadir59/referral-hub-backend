@@ -1,0 +1,156 @@
+[
+  {
+    "name": "Carrefour Hyper",
+    "flyersQuantity": 14,
+    "description": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.",
+    "hasNew": false,
+    "logo": "https://cdn.d4donline.com/u/c/5e2f86565c054b879a1a8aeaae178a5c.jpg",
+    "locations": [
+      {
+        "id": "5c88fa8cf4afda39709c2959",
+        "address": "360 Mall, Al Zahra, Kuwait",
+        "type": "Point",
+        "coordinates": [-80.128473, 25.781842]
+      },
+      {
+        "id": "5c88fa8cf4afda39709c2958",
+        "address": "Avenues Mall, Al Rari, Al Rai, Kuwait",
+        "type": "Point",
+        "coordinates": [-80.647885, 24.909047]
+      }
+    ],
+    "category": "grocery"
+  },
+  {
+    "name": "Lulu Hypermarket",
+    "flyersQuantity": 12,
+    "description": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.",
+    "hasNew": false,
+    "logo": "https://cdn.d4donline.com/uploads/company/22dc50b59759790d34133d61485e751c.jpg",
+    "locations": [
+      {
+        "id": "5c88fa8cf4afda39709c2954",
+        "address": "360 Mall, Al Zahra, Kuwait",
+        "type": "Point",
+        "coordinates": [-116.214531, 51.417611]
+      },
+      {
+        "id": "5c88fa8cf4afda39709c2953",
+        "address": "Avenues Mall, Al Rari, Al Rai, Kuwait",
+        "type": "Point",
+        "coordinates": [-118.076152, 52.875223]
+      }
+    ],
+    "category": "grocery"
+  },
+  {
+    "name": "Manueal Hypermarket",
+    "flyersQuantity": 8,
+    "description": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.",
+    "hasNew": false,
+    "logo": "https://cdn.d4donline.com/u/c/59c847e865475604d5894b9c06ce94f5.jpg",
+    "locations": [
+      {
+        "id": "5c88fa8cf4afda39709c295c",
+        "address": "360 Mall, Al Zahra, Kuwait",
+        "type": "Point",
+        "coordinates": [-106.855385, 39.182677]
+      },
+      {
+        "id": "5c88fa8cf4afda39709c295b",
+        "address": "Avenues Mall, Al Rari, Al Rai, Kuwait",
+        "type": "Point",
+        "coordinates": [-106.516623, 39.60499]
+      }
+    ],
+    "category": "grocery"
+  },
+  {
+    "name": "Al Raya",
+    "flyersQuantity": 6,
+    "description": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.",
+    "hasNew": true,
+    "logo": "https://cdn.d4donline.com/u/c/8203917d.jpg",
+    "locations": [
+      {
+        "id": "5c88fa8cf4afda39709c2965",
+        "address": "360 Mall, Al Zahra, Kuwait",
+        "type": "Point",
+        "coordinates": [-112.987418, 37.198125]
+      },
+      {
+        "id": "5c88fa8cf4afda39709c2964",
+        "address": "Avenues Mall, Al Rari, Al Rai, Kuwait",
+        "type": "Point",
+        "coordinates": [-111.376161, 36.86438]
+      }
+    ],
+    "category": "electronics"
+  },
+  {
+    "name": "Wahj Mart",
+    "flyersQuantity": 4,
+    "description": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.",
+    "hasNew": false,
+    "logo": "https://cdn.d4donline.com/u/c/36a52b79d1c83905011798463eb9f632.png",
+    "locations": [
+      {
+        "id": "5c88fa8cf4afda39709c2960",
+        "address": "360 Mall, Al Zahra, Kuwait",
+        "type": "Point",
+        "coordinates": [-73.967696, 40.781821]
+      },
+      {
+        "id": "5c88fa8cf4afda39709c295f",
+        "address": "Avenues Mall, Al Rari, Al Rai, Kuwait",
+        "type": "Point",
+        "coordinates": [-118.324396, 34.097984]
+      }
+    ],
+    "category": "fashion"
+  },
+  {
+    "name": "Dukan",
+    "flyersQuantity": 17,
+    "description": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.",
+    "hasNew": true,
+    "logo": "https://cdn.d4donline.com/u/c/ed2c4b669db267f80873a2684794bede.png",
+    "locations": [
+      {
+        "id": "5c88fa8cf4afda39709c296b",
+        "address": "360 Mall, Al Zahra, Kuwait",
+        "type": "Point",
+        "coordinates": [-118.809361, 34.003098]
+      },
+      {
+        "id": "5c88fa8cf4afda39709c296a",
+        "address": "Avenues Mall, Al Rari, Al Rai, Kuwait",
+        "type": "Point",
+        "coordinates": [-118.47549, 33.987367]
+      }
+    ],
+    "category": "beauty"
+  },
+  {
+    "name": "Kabayan",
+    "flyersQuantity": 4,
+    "description": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.",
+    "hasNew": false,
+    "logo": "https://cdn.d4donline.com/u/c/0e780194ffa3f295bfcb50c8a2e62d90.png",
+    "locations": [
+      {
+        "id": "5c88fa8cf4afda39709c2973",
+        "address": "360 Mall, Al Zahra, Kuwait",
+        "type": "Point",
+        "coordinates": [-109.99953, 37.629017]
+      },
+      {
+        "id": "5c88fa8cf4afda39709c2972",
+        "address": "Avenues Mall, Al Rari, Al Rai, Kuwait",
+        "type": "Point",
+        "coordinates": [-111.50954, 36.883269]
+      }
+    ],
+    "category": "home & garden"
+  }
+]
